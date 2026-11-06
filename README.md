@@ -9,7 +9,7 @@
 Python · R · Rust (현재 학습중)
 
 ## 지금 하는 것
-- [shipthatcode Rust Fundamentals](https://github.com/hoyeon-lyu/shipthatcode-study-Rust-Fundamentals) 진행 중
+- [shipthatcode python in practice python](https://github.com/hoyeon-lyu/shipthatcode-python-in-practice-python) 진행 중
 
 ## 연락
 📧 hoyeonlyu91@gmail.com
