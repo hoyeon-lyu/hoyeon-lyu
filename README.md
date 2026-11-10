@@ -8,6 +8,11 @@
 ## 다루는 도구
 Python · R · Rust (현재 학습중)
 
+## 지금까지 해온 것
+- univ. course "정보기술프로그래밍(Python Programming)" completed.
+- shipthatcode-python-fundamentals completed.
+- shipthatcode-rust-fundamentals completed.
+
 ## 지금 하는 것
 - [shipthatcode python in practice python](https://github.com/hoyeon-lyu/shipthatcode-python-in-practice-python) 진행 중
 
