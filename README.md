@@ -2,7 +2,8 @@
 충북대학교 물리학과 · 2026 입학
 
 ## Other Sites
-baek-joon code: https://acmicpc.net/user/hoyeonlyu \n
+baek-joon code: https://acmicpc.net/user/hoyeonlyu
+
 shipthatcode: Not Available now.
 
 ## 관심 분야
